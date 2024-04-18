@@ -8,7 +8,7 @@ function Store() {
     return(
         <>
             <Header />
-            <div className="data-home">
+            <div className="data-store">
                 <h1>STORE</h1>
                 <div className="products">
                     {products.map((product) => {
