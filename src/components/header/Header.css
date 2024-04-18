@@ -1,0 +1,48 @@
+.background-header{
+
+  background-color: gray;
+
+}
+
+.header{
+
+  background-color: #E4E2DD;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 1em;
+  border-bottom: 2px solid black  ;
+  
+}
+
+.logo{
+
+  width: 500px;
+  height: 250px;
+  margin-bottom: -16px;
+
+}
+
+.links{
+
+  text-align: justify;
+  align-items: center;
+
+}
+
+@media (max-width: 700px) {
+
+  .links{
+
+    font-size: 10px;
+
+  }
+
+  .logo{
+
+    width: 50px;
+    height: 50px;
+
+  }
+
+}

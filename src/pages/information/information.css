@@ -1,0 +1,44 @@
+
+.data-information{
+
+    height: 100vh;
+    background: rgb(255,200,132);
+    background: linear-gradient(0deg, rgba(255,200,132,1) 0%, rgba(228,226,221,1) 100%);
+
+}
+
+.map{
+
+    height: 20vh;
+    width: 40em;
+    margin-left: 35em;
+}
+
+.data{
+
+    text-align: center;
+    padding: 2em;
+
+}
+
+@media (max-width: 600px) {
+
+    .map{
+
+        margin-left: 5em;
+        width: 100px;
+
+    }
+
+}
+
+@media (max-width: 1200px) {
+
+    .map{
+
+        margin-left: 5em;
+        width: 200px;
+
+    }
+
+}
