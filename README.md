@@ -1,8 +1,9 @@
-# React + Vite
+# PETROCK
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PETROCK is a webpage dedicated to sell pet rocks, you can browse between them, look through a map for our location and more.
 
-Currently, two official plugins are available:
+## ACKNOWLEDGMENTS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I used <a href="https://leafletjs.com">LeafLet</a> to create the map used in the information tab.
+
+I used <a href="https://github.com/othneildrew/Best-README-Template">THIS README</a> example to help me structure mine.
