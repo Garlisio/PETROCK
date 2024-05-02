@@ -5,6 +5,25 @@
 
 }
 
+.data-premium{
+
+    height: 100%;
+    background: rgb(255,200,132);
+    background: linear-gradient(0deg, rgba(255,200,132,1) 0%, rgba(228,226,221,1) 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2em;
+}
+
+.info-premium{
+
+    padding: 1em;
+    font-weight: bold;
+    font-size: large;
+
+}
+
 .data-store{
 
     height: 100%;
@@ -25,7 +44,15 @@
 
 }
 
-.product
+.product{
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 4em;
+
+}
 
 .product-image{
 

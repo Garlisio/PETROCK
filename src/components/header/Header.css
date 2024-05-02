@@ -4,6 +4,12 @@
 
 }
 
+.open-btn{
+
+  visibility: hidden;
+
+}
+
 .header{
 
   background-color: #E4E2DD;
@@ -32,6 +38,50 @@
 
 @media (max-width: 700px) {
 
+  .sidebar{
+    height: 100%;
+    width: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    z-index: 2150;
+  }
+  
+  .sidebar.open{
+    width: 250px;
+  }
+  
+  .sidebar .links {
+    padding-top: 20px;
+  }
+  
+  .sidebar .links h1 {
+    color: white;
+    padding: 15px;
+    margin: 0;
+  }
+  
+  .sidebar .links h1 a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .sidebar .links h1 a:hover {
+    background-color: #555;
+  }
+  
+  .open-btn {
+    position: absolute;
+    top: 20px;
+    left: 10px;
+    z-index: 2151;
+    visibility: visible;
+  }
+
   .links{
 
     font-size: 10px;
@@ -40,8 +90,8 @@
 
   .logo{
 
-    width: 50px;
-    height: 50px;
+    width: 250px;
+    height: 150px;
 
   }
 
