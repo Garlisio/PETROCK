@@ -10,12 +10,18 @@
     height: 100%;
     background: rgb(255,200,132);
     background: linear-gradient(0deg, rgba(255,200,132,1) 0%, rgba(228,226,221,1) 100%);
-    padding: 2em;
+    padding: 4em;
 }
 
-.products{
+.store-product{
 
-    padding: 1em;
+    padding: 4em;
+
+}
+
+.store-products{
+
+    padding: 5em;
     height: 100%;
     flex-direction: row;
     flex-wrap: wrap;
@@ -25,9 +31,7 @@
 
 }
 
-.product
-
-.product-image{
+.store-product-image{
 
     height: 200px;
     width: 200px;
@@ -37,14 +41,14 @@
 
 }
 
-.product-image:hover{
+.store-product-image:hover{
 
     height: 220px;
     width: 220px;
 
 }
 
-.product-data{
+.store-product-data{
 
     font-weight: bold;
 
