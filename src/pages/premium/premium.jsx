@@ -34,8 +34,10 @@ function Premium(){
         <>
             <Header />
                 <div className="data-premium">
-                    <h1 className="title-premium">PREMIUM STORE</h1>
-                    <p>THE BEST OF THE BEST IN THE WHOLE WORLD</p>
+                    <div className="text-premium">
+                        <h1 className="title-premium">PREMIUM STORE</h1>
+                        <p>! ! ! THE BEST OF THE BEST WORLDWIDE ! ! !</p>
+                    </div>
                     <div className="products">
                         {rocks.map((r) => {
                             return (

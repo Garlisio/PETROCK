@@ -1,0 +1,78 @@
+
+.data-newsletter{
+
+    height: 100%;
+    background: rgb(255,200,132);
+    background: linear-gradient(0deg, rgba(255,200,132,1) 0%, rgba(228,226,221,1) 100%);
+
+}
+
+.filler{
+
+    height: 10vh;
+
+}
+
+.mails{
+
+    margin-top: 15vh;
+
+}
+
+.form-control{
+
+    height: 25px;
+    width: 200px;
+    text-align: center;
+    font-size: large;
+
+}
+
+.form-newsletter{
+
+    font-size: large;
+    padding: 2em;
+
+}
+
+.submit-button{
+
+    margin-left: 10px;
+    width: 100px;
+    height: 25px;
+
+}
+
+.delete-button{
+
+    margin-top: 5px;
+    width: 100px;
+    height: 25px;
+
+}
+
+.modify-button{
+
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 100px;
+    height: 25px;
+
+}
+
+.mails{
+
+    height: 100%;
+    flex-direction: column;
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.data{
+
+    font-size: large;
+
+}

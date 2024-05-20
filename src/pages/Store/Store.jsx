@@ -9,8 +9,10 @@ function Store() {
         <>
             <Header />
             <div className="data-store">
-                <h1 className="title">STORE</h1>
-                <p>Our classics along with some new partners</p>
+                <div className="text-store">
+                    <h1 className="title">STORE</h1>
+                    <p>Our classics along with some new partners</p>
+                </div>
                 <div className="store-products">
                     {products.map((product) => {
                         return (

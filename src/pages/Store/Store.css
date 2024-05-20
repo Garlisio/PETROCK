@@ -5,6 +5,12 @@
 
 }
 
+.text-store{
+
+    font-size: large;
+
+}
+
 .data-store{
 
     height: 100%;
@@ -36,16 +42,14 @@
     height: 200px;
     width: 200px;
     border: 3px solid black;
-    transition: 1s;
     box-shadow: 5px 5px;
-
+    transition: 1s;
 }
 
 .store-product-image:hover{
 
-    height: 220px;
-    width: 220px;
-
+    width: 250px;
+    height: 250px;
 }
 
 .store-product-data{

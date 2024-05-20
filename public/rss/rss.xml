@@ -1,0 +1,77 @@
+<rss version="1.0">
+    <channel>
+        <title>The Mines of Petrock</title>
+        <link>https://shitto.com</link>
+        <description>Daily information about the Petrock mines</description>
+        <item>
+            <pubDate>Mon, 1 January 2024</pubDate>
+            <title>Ruby mine opened</title>
+            <description>Ruby mine on district 3 was finally opened</description>
+        </item>
+        <item>
+            <pubDate>Tue, 2 January 2024</pubDate>
+            <title>New equipment</title>
+            <description>Mining production increased by 2.375% thanks to the new equimpent given to the workers</description>
+        </item>
+        <item>
+            <pubDate>Wen, 3 January 2024</pubDate>
+            <title>Coal mine restoration</title>
+            <description>The main coal mine at district 1 caved in 3 months ago, the area was deemed</description>
+        </item>
+        <item>
+            <pubDate>Thu, 4 January 2024</pubDate>
+            <title>Pirite ore discovered</title>
+            <description>Pirite ore discovered at third branch of mine 4 at district 7</description>
+        </item>
+        <item>
+            <pubDate>Fri, 5 January 2024</pubDate>
+            <title>Safety drills initiated</title>
+            <description>Weekly safety drills have been initiated in all districts to enhance worker safety.</description>
+        </item>
+        <item>
+            <pubDate>Sat, 6 January 2024</pubDate>
+            <title>Gold vein found</title>
+            <description>A significant gold vein was found in the northern section of mine 2.</description>
+        </item>
+        <item>
+            <pubDate>Sun, 7 January 2024</pubDate>
+            <title>New cafeteria opens</title>
+            <description>A new cafeteria opened in district 5, providing better meals for miners.</description>
+        </item>
+        <item>
+            <pubDate>Mon, 8 January 2024</pubDate>
+            <title>Environmental assessment</title>
+            <description>An environmental assessment started in district 4 to ensure sustainable mining practices.</description>
+        </item>
+        <item>
+            <pubDate>Tue, 9 January 2024</pubDate>
+            <title>Mining productivity report</title>
+            <description>The latest report shows a 3% increase in overall mining productivity across all districts.</description>
+        </item>
+        <item>
+            <pubDate>Wed, 10 January 2024</pubDate>
+            <title>Worker health checks</title>
+            <description>Regular health checks have been scheduled for all miners starting this month.</description>
+        </item>
+        <item>
+            <pubDate>Thu, 11 January 2024</pubDate>
+            <title>Advanced training programs</title>
+            <description>New training programs have been introduced to improve worker skills and safety.</description>
+        </item>
+        <item>
+            <pubDate>Fri, 12 January 2024</pubDate>
+            <title>New transport system</title>
+            <description>A new underground transport system has been implemented to ease the movement of mined materials.</description>
+        </item>
+        <item>
+            <pubDate>Sat, 13 January 2024</pubDate>
+            <title>Increased security</title>
+            <description>Security measures have been increased in response to recent thefts in district 6.</description>
+        </item>
+        <item>
+            <pubDate>Sun, 14 January 2024</pubDate>
+            <title>Community outreach</title>
+            <description>A new community outreach program has been launched to support local schools and hospitals.</description>
+        </item>
+    </channel>
+</rss>

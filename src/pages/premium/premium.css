@@ -32,6 +32,13 @@
     padding: 2em;
 }
 
+.text-premium{
+
+    text-align: center;
+    font-size: large;
+    
+}
+
 .products{
 
     padding: 1em;
@@ -66,8 +73,8 @@
 
 .product-image:hover{
 
-    height: 220px;
-    width: 220px;
+    height: 250px;
+    width: 250px;
 
 }
 
